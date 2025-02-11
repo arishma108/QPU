@@ -1,5 +1,5 @@
 ```
-!pip install cudaq
+!pip install --upgrade cudaq
 ```
 
 ```
